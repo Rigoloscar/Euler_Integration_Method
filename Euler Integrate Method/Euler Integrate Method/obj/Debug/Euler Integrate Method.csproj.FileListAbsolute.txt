@@ -1,0 +1,14 @@
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\bin\Debug\Euler Integrate Method.exe.config
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\bin\Debug\Euler Integrate Method.exe
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\bin\Debug\Euler Integrate Method.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\bin\Debug\Classes.dll
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\bin\Debug\Classes.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler Integrate Method.csproj.AssemblyReference.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler Integrate Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler_Integrate_Method.Form1.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler_Integrate_Method.Properties.Resources.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler Integrate Method.csproj.GenerateResource.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler Integrate Method.csproj.CoreCompileInputs.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler Integrate Method.csproj.CopyComplete
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler Integrate Method.exe
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Euler Integrate Method\obj\Debug\Euler Integrate Method.pdb

@@ -1,0 +1,6 @@
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Classes\bin\Debug\Classes.dll
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Classes\bin\Debug\Classes.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Classes\obj\Debug\Classes.dll
+C:\Users\rigol\Desktop\Òscar Rigol\Proyectos\Euler Integrate Method\Classes\obj\Debug\Classes.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler Integrate Method", "Euler Integrate Method\Euler Integrate Method.csproj", "{99E08557-E6D2-4840-AC20-A258D6A4AEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{8D4F5D93-80EA-4FDA-B2FF-3F38740E4C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E08557-E6D2-4840-AC20-A258D6A4AEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E08557-E6D2-4840-AC20-A258D6A4AEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E08557-E6D2-4840-AC20-A258D6A4AEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E08557-E6D2-4840-AC20-A258D6A4AEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4F5D93-80EA-4FDA-B2FF-3F38740E4C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4F5D93-80EA-4FDA-B2FF-3F38740E4C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4F5D93-80EA-4FDA-B2FF-3F38740E4C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4F5D93-80EA-4FDA-B2FF-3F38740E4C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEFEBD8-6D98-4737-AC4F-D3B562CD42D4}
+	EndGlobalSection
+EndGlobal
